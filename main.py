@@ -12,7 +12,9 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:3000",  # React development
-        "http://localhost:5173",  # Vite development
+        "http://localhost:5173", 
+        "https://fastapi-product-manager.vercel.app",
+        # Vite development
         # Add your production frontend URL after deployment:
         # "https://your-app.vercel.app",
         # "https://your-app.netlify.app",
