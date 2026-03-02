@@ -4,13 +4,13 @@ A full-stack web application built with **FastAPI** (backend) and **React** (fro
 
 ## Features
 
-- ✅ View all products
-- ✅ Add new products
-- ✅ Edit existing products
-- ✅ Delete products
-- ✅ Beautiful, responsive UI
-- ✅ Real-time updates
-- ✅ PostgreSQL database integration
+- View all products
+- Add new products
+- Edit existing products
+- Delete products
+- Beautiful, responsive UI
+- Real-time updates
+- PostgreSQL database integration
 
 ## Tech Stack
 
